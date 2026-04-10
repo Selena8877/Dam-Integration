@@ -1,4 +1,6 @@
-How to run the code in VSCO:
+## Dam Integration - Computational 2
+
+#How to run the code in VSCO:
 Open terminal and git clone  https://github.com/Selena8877/Dam-Integration.git
 In the terminal write - pip install pandas numpy matplotlib scipy
 - python dam_analysiscom.py
