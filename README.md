@@ -12,16 +12,20 @@ pip install pandas numpy matplotlib scipy
 ```
 
 ## How to Run
-Step 1) Clone the repository
+Step 1) Clone the repository:
+
 git clone https://github.com/Selena8877/Dam-Integration.git
 
-Step 2) Open the Project Folder
+Step 2) Open the Project Folder:
+
 cd Dam-Integration
 
-Step 3) Run the Program
+Step 3) Run the Program:
+
 python dam_analysiscom.py
 
-Step 4) The Output
+Step 4) The Output:
+
 - A plot of the daily averages will appear
 - Once the plot is closed, the table of calculated results will appear in the terminal
 
