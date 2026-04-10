@@ -1,4 +1,4 @@
-# Dam Integration - Computational 2
+# Dam Integration - Computational Science 2
 
 This project uses two numerical integration methods, the Trapezoidal and Simpson's rule, to approximate the average volume of water discharge in the Columbia River at The Dalles Dam in one year.
 
